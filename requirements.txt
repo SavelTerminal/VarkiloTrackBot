@@ -4,3 +4,4 @@ httpx==0.23.3
 supabase==1.0.0
 gotrue==1.0.4
 postgrest==0.10.6
+aiohttp==3.8.4
